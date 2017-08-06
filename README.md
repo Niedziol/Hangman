@@ -1,2 +1,2 @@
 # Hangman
-A simple python game for learning a new language
+A simple Python game made in order to learn a new language
